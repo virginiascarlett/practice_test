@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single 
 title:  "Test post"
 #date:   2024-04-25 10:16:28 -0400
 #categories: jekyll update
