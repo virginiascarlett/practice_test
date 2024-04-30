@@ -1,7 +1,4 @@
----
-layout: single
-title: About
-permalink: /about/
+<!-- layout | title | permalink  \\-|-|- single | About | /about/ \\-->
 ---
 
 # practice_test
