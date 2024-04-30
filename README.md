@@ -1,7 +1,4 @@
---- 
-
-layout | title | permalink-|-|-single | About | /about/
-
+<!-- layout | title | permalink  \\-|-|- single | About | /about/ \\-->
 ---
 
 # practice_test
