@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "."
+  title: "Janelia Data Standards"
   navbar:
     left:
       - href: index.qmd
