@@ -1,5 +1,5 @@
 ---
-title: "."
+title: "Welcome to Janelia Data Standards"
 ---
 
 This is a Quarto website.
