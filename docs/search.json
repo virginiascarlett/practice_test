@@ -1,14 +1,14 @@
 [
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
   },
   {
-    "objectID": "pages/index.html",
-    "href": "pages/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Welcome to Janelia Data Standards",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
