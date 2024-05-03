@@ -6,9 +6,9 @@ website:
   title: "Janelia Data Standards"
   navbar:
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - about.qmd
+      - pages/about.qmd
 
 format:
   html:
