@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "Welcome to Janelia Data Standards",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "A nascent project to unify bioimaging data conventions at HHMI’s Janelia Research Campus."
+  },
+  {
+    "objectID": "posts/test_post.html",
+    "href": "posts/test_post.html",
+    "title": "My Post",
+    "section": "",
+    "text": "Here is some content"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "My Post\n\n\n\n\n\nPost description\n\n\n\n\n\nMay 6, 2024\n\n\nFizz McPhee\n\n\n\n\n\n\nNo matching items"
   }
 ]

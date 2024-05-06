@@ -1,11 +1,7 @@
 ---
 title: "Welcome to Janelia Data Standards"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: false
 ---
-
+\
+\
 A nascent project to unify bioimaging data conventions at HHMI's Janelia Research Campus.
 

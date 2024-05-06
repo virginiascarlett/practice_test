@@ -5,10 +5,14 @@ project:
 website:
   title: "Janelia Data Standards"
   navbar:
+    tools:
+      - icon: github
+        href: https://github.com/virginiascarlett/practice_test
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - posts.qmd
 
 format:
   html:
