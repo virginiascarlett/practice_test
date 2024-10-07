@@ -5,3 +5,4 @@ title: "My cool website"
 \
 This is some content
 This is more content
+I like the color blue
