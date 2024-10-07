@@ -21,6 +21,6 @@ format:
     toc: true
 
 execute:
-	freeze: auto
+  freeze: auto
 
 
