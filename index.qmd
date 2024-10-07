@@ -1,7 +1,6 @@
 ---
-title: "Welcome to Janelia Data Standards"
+title: "My cool website"
 ---
 \
 \
-A nascent project to unify bioimaging data conventions at HHMI's Janelia Research Campus.
-
+This is some content

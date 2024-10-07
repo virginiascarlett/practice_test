@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "About this site"
+    "text": "My Post\n\n\n\n\n\nPost description\n\n\n\n\n\nMay 6, 2024\n\n\nFizz McPhee\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Janelia Data Standards",
+    "title": "My cool website",
     "section": "",
-    "text": "A nascent project to unify bioimaging data conventions at HHMI’s Janelia Research Campus."
+    "text": "This is some content"
   },
   {
     "objectID": "posts/test_post.html",
@@ -21,10 +21,10 @@
     "text": "Here is some content"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "My Post\n\n\n\n\n\nPost description\n\n\n\n\n\nMay 6, 2024\n\n\nFizz McPhee\n\n\n\n\n\n\nNo matching items"
+    "text": "About this site"
   }
 ]
